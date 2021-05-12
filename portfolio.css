@@ -1,0 +1,102 @@
+.container {
+  background-color: #212529;
+  height: 200px;
+  width: auto;
+  opacity: 10;
+}
+
+.about {
+  font-size: 1.5rem;
+  color: #fff;
+  text-align: left;
+}
+
+.row {
+  background-color: green;
+}
+
+.col1 {
+  height: 500px;
+  width: auto;
+}
+
+.col2 {
+  height: 500px;
+  width: auto;
+}
+
+.container-fluid {
+  justify-content: right;
+}
+
+/* .navmenu {
+  justify-content: center;
+} */
+
+.myname {
+  color: #fff;
+  font-size: 30px;
+  /* text-align: right; */
+  font-weight: 600;
+  margin-left: 25px;
+  font-style: oblique;
+  margin-left: 200px;
+}
+
+.card-img {
+  vertical-align: middle;
+}
+
+.col-md-4 {
+  /* margin-top: -10px; */
+  margin-left: auto;
+}
+
+.card-title {
+  color: #fff;
+  background-color: rgb(0, 0, 0);
+  /* text-align: justify;
+  width: fit-content; */
+  -ms-flex-align: center;
+}
+
+.row-g-0 {
+  background-color: #212529;
+}
+
+.card-text {
+  color:rgb(195, 8, 8)
+}
+
+body {
+  background-color: #212529;
+}
+
+/* @media h1 {
+  font-size: 1.5rem;
+} */
+
+.projects {
+  background-color: black;
+  color: #fff;
+}
+
+.navmenu {
+  background-color: #333;
+}
+
+.card {
+  padding: 20px;
+  padding-top: 100px;
+  margin-top: 20px;
+  background-color: rgb(146, 62, 62);
+}
+
+.card-text {
+  color: white;
+}
+
+.numbergame {
+  height: 300px;
+  width: auto;
+}
